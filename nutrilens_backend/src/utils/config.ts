@@ -1,0 +1,2 @@
+export const APP_NAME = "NutriLens";
+export const WEB_URL = "http://localhost:3000";
